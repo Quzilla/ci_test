@@ -4,7 +4,7 @@ val1=$1
 val2=$2
 
 if [ $# -ne 2 ]; then
-    echo "not enough arguments"
+    echo "not enough argument"
     exit 1
 fi
 
