@@ -1,6 +1,0 @@
-language: bash
-script:
- - echo hello
- - echo Travis CI test in .travis.yml
- - ./test.sh
-
